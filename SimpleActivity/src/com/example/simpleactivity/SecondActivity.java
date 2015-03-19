@@ -23,7 +23,7 @@ public class SecondActivity extends Activity {
 	 public void onClick(View view){
 	    	
 	    	Intent intent1= new Intent(this, ThirdActivity.class);
-	    	//intent.putExtra("URL", "http://www.vogella.com");
+	    	intent1.putExtra("URL", "http://www.vogella.com");
 	    	startActivity(intent1);
 	    	
 	    }
