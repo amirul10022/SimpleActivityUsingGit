@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleActivity</string>
+    <!-- <string name="hello_world">Hello world!</string> -->
+	<string name="button_text_second_activity">Go To Second Activity</string>
+	<string name="text_view_second_activity_layout">Started</string>
+</resources>

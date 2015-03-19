@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" 
+    >
+	
+    <!-- TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" /> -->
+    
+    <EditText 
+        android:id="@+id/editTextMainActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="50dp"
+        android:hint="text"
+        />
+    <Button 
+        android:id="@+id/buttonMainActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:onClick="onClick"
+        android:layout_below="@+id/editTextMainActivity"
+        android:text="@string/button_text_second_activity"/>
+    
+
+</RelativeLayout>
