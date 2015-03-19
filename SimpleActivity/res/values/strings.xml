@@ -3,6 +3,12 @@
 
     <string name="app_name">SimpleActivity</string>
     <!-- <string name="hello_world">Hello world!</string> -->
-	<string name="button_text_second_activity">Go To Second Activity</string>
-	<string name="text_view_second_activity_layout">Started</string>
+    <string name="button_text_second_activity">Go To Second Activity</string>
+    <string name="text_view_second_activity_layout">Started</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_view_third_activity_layout">This is Third Activity Layout</string>
+    
+    <string name="button_text_third_activity">Go To Third Activity</string>
+
 </resources>
