@@ -13,8 +13,10 @@
     <string name="text_view_fourth_activity_layout">This is Fourth Activity Layout</string>
     <string name="button_text_fourth_activity">Go To Fourth Activity</string>
     <string name="title_activity_fifth">FifthActivity</string>
-    
     <string name="button_text_fifth_activity">Go To Fifth Activity</string>
     <string name="text_view_fifth_layout">This is Fifth Activity Layout</string>
+    <string name="title_activity_sixth">SixthActivity</string>
+    
+    <string name="button_text_sixth_activity">Go To Sixth Activity</string>
 
 </resources>
